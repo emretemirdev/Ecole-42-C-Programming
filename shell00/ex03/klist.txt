@@ -1,0 +1,5 @@
+Credentials cache: API:4E8314CD-D09F-4EFF-840C-73BDF4759BA5
+        Principal: etemir@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 18 17:57:36 2021  Oct 19 03:57:31 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
