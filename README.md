@@ -1,1 +1,1 @@
-# Ecole-42-C-Programming
+# Ecole-42 C-Programming
